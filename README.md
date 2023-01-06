@@ -16,6 +16,6 @@
 
 > [인프런: 하루만에 Cypress로 작성하는 자바스크립트 E2E 테스트 코드](https://www.inflearn.com/course/%EC%8B%B8%EC%9D%B4%ED%94%84%EB%A0%88%EC%8A%A4-%ED%85%8C%EC%8A%A4%ED%8A%B8/dashboard)
 
-1. [카운터 앱 테스트 코드 작성](./cypress-e2e/)
-2. [계산기 앱 테스트 코드 작성]()
+1. [카운터 앱 테스트 코드 작성](./cypress-counter/)
+2. [계산기 앱 테스트 코드 작성](./cypress-calculator/)
 3. [테스트 코드에 대한 개념]()
