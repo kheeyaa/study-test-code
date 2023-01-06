@@ -18,4 +18,4 @@
 
 1. [카운터 앱 테스트 코드 작성](./cypress-counter/)
 2. [계산기 앱 테스트 코드 작성](./cypress-calculator/)
-3. [테스트 코드에 대한 개념]()
+3. [테스트 코드에 대한 개념](./what-is-test/README.md)
