@@ -10,3 +10,4 @@
 2. [비동기 코드](./jest-tutorial/fn2.test.js)
 3. [테스트 전후로 해야할 작업](./jest-tutorial/fn3.test.js)
 4. [Mock Functions](./jest-tutorial/fn4.test.js)
+5. [리액트 컴포넌트 + 스냅샷 테스트](./jest-react-snapshot/)
