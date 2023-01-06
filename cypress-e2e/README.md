@@ -14,7 +14,7 @@ npx cypress open
 
 3. 라이브 서버로 index.html 열기
 
-4. `cypress/e2e/counter.cy.js` 테스트 코드 생성
+4. [`cypress/e2e/counter.cy.js`](./cypress/e2e/counter.cy.js) 테스트 코드 생성
 
 이전엔 `__.spec.js` 형식이었지만 지금은 `__.cy.js` 로 바뀐것 같다.
 
